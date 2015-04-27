@@ -1,0 +1,17 @@
+body {
+	font-family: Arial;
+}
+
+p {
+	padding: 10px 5px;
+	border: 1px solid black;
+}
+
+input {
+	background-color: yellow;
+	margin: 10px 5px;
+}
+
+#lastname {
+	font-weight: bold;
+}
